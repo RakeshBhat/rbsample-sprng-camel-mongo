@@ -39,10 +39,10 @@ https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-windows/
     "eyeColor": "black",
     "name": "Vicki Slat",
     "gender": "female",
-    "company": "DIGIPRINT",
-    "email": "vickislat@digiprint.com",
-    "phone": "+1 (830) 546-2276",
-    "address": "681 Meadow Street, Watrous, New Mexico, 8627"
+    "company": "TEST",
+    "email": "vickislat@test.com",
+    "phone": "+1 (000) 546-990",
+    "address": "681 TEST Street, TEST, OLD, 8627"
   }
 
 # Resources
